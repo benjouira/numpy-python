@@ -15,3 +15,10 @@ np.empty(4, dtype=int)
 np.eye(5,6)
 
 # ************************
+tab1 = np.arange(10)
+tab2 = tab1.reshape(2, 5)
+print("tab2 : \n", tab2)
+
+# ************************
+arr = np.array([])
+arr.shape
