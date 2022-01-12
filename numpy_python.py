@@ -22,5 +22,3 @@ print("tab2 : \n", tab2)
 # ************************
 arr = np.array([])
 arr.shape
-
-
